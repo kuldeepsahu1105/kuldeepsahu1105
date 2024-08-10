@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/kuldeepsahu11" target="blank"><img src="https://img.shields.io/twitter/follow/kuldeepsahu11?logo=twitter&style=for-the-badge" alt="kuldeepsahu11" /></a> </p>
 
-- 🔭 I’m currently working in [Cloudera](cloudera.com)
+- 🔭 I’m currently working in [Cloudera](https://www.cloudera.com)
 
 - 💬 Ask me about **DevOps**
 
