@@ -173,9 +173,7 @@ Here are some ideas to get you started:
 <p align="left">
   <!-- GitHub Activity Graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=kuldeepsahu1105&theme=react-dark&bg_color=000000&hide_border=true" alt="Activity Graph"/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuldeepsahu1105&theme=dracula&bg_color=000000&hide_border=true" alt="Activity Graph"/>
-
   </a>
 </p>
 
@@ -204,13 +202,6 @@ Here are some ideas to get you started:
   <!-- Dev Stats -->
   <a href="https://github.com/siddharth25/github-profile-summary">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kuldeepsahu1105&theme=monokai" alt="Dev Stats"/>
-  </a>
-</p>
-
-<p align="left">
-  <!-- GitHub Activity Graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=kuldeepsahu1105&theme=react-dark&bg_color=000000&hide_border=true" alt="GitHub Activity Graph"/>
   </a>
 </p>
 
