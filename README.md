@@ -206,15 +206,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  <!-- Visitor Badge -->
-  <a href="https://visitor-badge.glitch.me/badge?page_id=kuldeepsahu1105">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=kuldeepsahu1105" alt="Visitor Badge"/>
-  </a>
-</p>
-
-<h3 align="left">Dynamic Widgets:</h3>
-
-<p align="left">
   <!-- GitHub Activity Graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=kuldeepsahu1105&theme=react-dark&bg_color=000000&hide_border=true" alt="GitHub Activity Graph"/>
@@ -242,11 +233,5 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="left">
-  <!-- Visitor Badge -->
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=kuldeepsahu1105" alt="Visitor Badge"/>
-  </a>
-</p>
 
 
