@@ -169,10 +169,46 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeepsahu1105&" alt="kuldeepsahu1105" /></p>
 
 <h3 align="left">Dynamic Widgets:</h3>
-<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=kuldeepsahu1105" alt="activity-graph" /></p>
-<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=kuldeepsahu1105&theme=react-dark" alt="contribution-graph" /></p>
-<p><img align="center" src="https://wakatime.com/badge/user/your_user_id.svg" alt="wakatime" /></p>
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuldeepsahu1105&theme=default" alt="profile-summary" /></p>
-<p><img align="center" src="https://devstats-github.vercel.app/api?username=kuldeepsahu1105" alt="dev-stats" /></p>
-<p><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=kuldeepsahu1105.kuldeepsahu1105" alt="visitor-badge" /></p>
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=kuldeepsahu1105" alt="github-trophies" /></p>
+
+<p align="left">
+  <!-- GitHub Activity Graph -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=kuldeepsahu1105&theme=react-dark&bg_color=000000&hide_border=true" alt="Activity Graph"/>
+  </a>
+</p>
+
+<p align="left">
+  <!-- GitHub Contribution Graph -->
+  <a href="https://github.com/Platane/snk">
+    <img src="https://raw.githubusercontent.com/kuldeepsahu1105/kuldeepsahu1105/main/contribution-graph.svg" alt="Contribution Graph"/>
+  </a>
+</p>
+
+<p align="left">
+  <!-- Wakatime Stats -->
+  <a href="https://wakatime.com/@kuldeepsahu">
+    <img src="https://wakatime.com/badge/user/00000000-0000-0000-0000-000000000000.svg" alt="Wakatime"/>
+  </a>
+</p>
+
+<p align="left">
+  <!-- Profile Summary -->
+  <a href="https://github.com/durgesh018/github-profile-summary">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuldeepsahu1105&theme=monokai" alt="Profile Summary"/>
+  </a>
+</p>
+
+<p align="left">
+  <!-- Dev Stats -->
+  <a href="https://github.com/siddharth25/github-profile-summary">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kuldeepsahu1105&theme=monokai" alt="Dev Stats"/>
+  </a>
+</p>
+
+<p align="left">
+  <!-- Visitor Badge -->
+  <a href="https://visitor-badge.glitch.me/badge?page_id=kuldeepsahu1105">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=kuldeepsahu1105" alt="Visitor Badge"/>
+  </a>
+</p>
+
