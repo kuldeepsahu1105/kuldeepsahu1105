@@ -163,14 +163,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuldeepsahu1105&show_icons=true&locale=en&layout=compact" alt="kuldeepsahu1105" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeepsahu1105&show_icons=true&locale=en" alt="kuldeepsahu1105" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeepsahu1105&" alt="kuldeepsahu1105" /></p>
-
-
-
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuldeepsahu1105&show_icons=true&locale=en&layout=compact" alt="kuldeepsahu1105" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldeepsahu1105&show_icons=true&locale=en" alt="kuldeepsahu1105" /></p>
