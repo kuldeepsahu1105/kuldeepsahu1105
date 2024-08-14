@@ -119,19 +119,11 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-<h4>CI/CD:</h4>
+<h4>CI/CD & DevOps:</h4>
 <p align="left">
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> Jenkins
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> Docker
-</a>
 <a href="https://www.gitlab.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> GitLab
 </a>
-</p>
-<h4>CI/CD & DevOps:</h4>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -177,13 +169,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeepsahu1105&" alt="kuldeepsahu1105" /></p>
 
-<h4>Version Control:</h4>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <span>Git</span>
-  </a>
-</p>
+
 
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuldeepsahu1105&show_icons=true&locale=en&layout=compact" alt="kuldeepsahu1105" /></p>
