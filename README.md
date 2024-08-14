@@ -174,9 +174,10 @@ Here are some ideas to get you started:
   <!-- GitHub Activity Graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=kuldeepsahu1105&theme=react-dark&bg_color=000000&hide_border=true" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuldeepsahu1105&theme=dracula&bg_color=000000&hide_border=true" alt="Activity Graph"/>
+
   </a>
 </p>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="left">
   <!-- GitHub Contribution Graph -->
