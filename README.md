@@ -178,20 +178,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  <!-- GitHub Contribution Graph -->
-  <a href="https://github.com/Platane/snk">
-    <img src="https://raw.githubusercontent.com/kuldeepsahu1105/kuldeepsahu1105/main/contribution-graph.svg" alt="Contribution Graph"/>
-  </a>
-</p>
-
-<p align="left">
-  <!-- Wakatime Stats -->
-  <a href="https://wakatime.com/@kuldeepsahu">
-    <img src="https://wakatime.com/badge/user/00000000-0000-0000-0000-000000000000.svg" alt="Wakatime"/>
-  </a>
-</p>
-
-<p align="left">
   <!-- Profile Summary -->
   <a href="https://github.com/durgesh018/github-profile-summary">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuldeepsahu1105&theme=monokai" alt="Profile Summary"/>
@@ -204,27 +190,3 @@ Here are some ideas to get you started:
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kuldeepsahu1105&theme=monokai" alt="Dev Stats"/>
   </a>
 </p>
-
-<p align="left">
-  <!-- GitHub Contribution Graph -->
-  <a href="https://github.com/Platane/snk">
-    <img src="https://raw.githubusercontent.com/kuldeepsahu1105/kuldeepsahu1105/main/contribution-graph.svg" alt="GitHub Contribution Graph"/>
-  </a>
-</p>
-
-<p align="left">
-  <!-- Wakatime Stats -->
-  <a href="https://wakatime.com/@your_wakatime_username">
-    <img src="https://wakatime.com/badge/user/your_wakatime_user_id.svg" alt="Wakatime"/>
-  </a>
-</p>
-
-<p align="left">
-  <!-- Dev Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=kuldeepsahu1105&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true" alt="Dev Stats"/>
-  </a>
-</p>
-
-
-
