@@ -90,7 +90,7 @@ Here are some ideas to get you started:
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> Django
 </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> Flask
+    <img src="https://flask.palletsprojects.com/en/stable/_static/flask-vertical.png" alt="flask" width="40" height="40"/> Flask
 </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> Spring
@@ -122,7 +122,7 @@ Here are some ideas to get you started:
 <h4>CI/CD & DevOps:</h4>
 <p align="left">
 <a href="https://www.gitlab.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> GitLab
+    <img src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg" alt="gitlab" width="40" height="40"/> GitLab
 </a>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
