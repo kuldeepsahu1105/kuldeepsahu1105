@@ -15,45 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Kuldeep Sahu</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeepsahu1105&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeepsahu1105" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuldeepsahu1105" alt="kuldeepsahu1105" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kuldeepsahu11" target="blank"><img src="https://img.shields.io/twitter/follow/kuldeepsahu11?logo=twitter&style=for-the-badge" alt="kuldeepsahu11" /></a> </p>
-
-- 🔭 I’m currently working in [Cloudera](https://www.cloudera.com)
-- 💬 Ask me about **DevOps**
-- 📫 How to reach me: **sahukuldeep4321@gmail.com**
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/kuldeep-sahu-0511/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kuldeepsahu11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kuldeepsahu11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kuldeep-sahu-0511/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuldeep-sahu-0511" height="30" width="40" /></a>
-<a href="https://fb.com/kuldeep.sahu.9256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kuldeep.sahu.9256" height="30" width="40" /></a>
-<a href="https://instagram.com/_kuldeep_sahu.1105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kuldeep_sahu.1105" height="30" width="40" /></a>
-</p>
-
-
 <h1 align="center">Hey Everyone 👋, I'm Kuldeep Sahu</h1>
 
-<div align="center">
-  <img src="https://github.com/kuldeepsahu1105/kuldeepsahu1105/blob/main/Banner.png" alt="DevOpsShack Banner">
-</div>
+<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector<a href="https://www.youtube.com/@devopsshack" target="_blank"> Kuldeep Sahu</a></h3>
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector<a href="https://www.youtube.com/@devopsshack" target="_blank">Kuldeep Sahu</a></h3>
+<div align="center">
+  <img src="https://github.com/kuldeepsahu1105/kuldeepsahu1105/blob/main/Banner.png" alt="Kuldeep Sahu">
+</div>
 
 <p align="center">
   <a href="https://github.com/kuldeepsahu1105">
-    <img src="https://img.shields.io/github/followers/sahuadi246?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/kuldeepsahu1105?label=Follow&style=social" />
   </a>
-  <a href="https://www.youtube.com/@devopsshack">
+  <a href="https://www.youtube.com/@kuldeepsahu7288">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
   </a>
-  <a href="https://linkedin.com/in/kuldeepsahu11">
+  <a href="https://www.linkedin.com/in/kuldeep-sahu-0511/">
     <img src="https://img.shields.io/badge/LinkedIn-Kuldeep%20Sahu-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
@@ -78,6 +55,27 @@ Here are some ideas to get you started:
 </p>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeepsahu1105&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeepsahu1105" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuldeepsahu1105" alt="kuldeepsahu1105" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/kuldeepsahu11" target="blank"><img src="https://img.shields.io/twitter/follow/kuldeepsahu11?logo=twitter&style=for-the-badge" alt="kuldeepsahu11" /></a> </p>
+
+- 🔭 I’m currently working in [Cloudera](https://www.cloudera.com)
+- 💬 Ask me about **DevOps**
+- 📫 How to reach me: **sahukuldeep4321@gmail.com**
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/kuldeep-sahu-0511/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kuldeepsahu11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kuldeepsahu11" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kuldeep-sahu-0511/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuldeep-sahu-0511" height="30" width="40" /></a>
+<a href="https://fb.com/kuldeep.sahu.9256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kuldeep.sahu.9256" height="30" width="40" /></a>
+<a href="https://instagram.com/_kuldeep_sahu.1105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kuldeep_sahu.1105" height="30" width="40" /></a>
+</p>
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 
 <h4>Cloud:</h4>
