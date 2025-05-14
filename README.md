@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hey Everyone 👋, I'm Kuldeep Sahu</h1>
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector<a href="https://www.youtube.com/@devopsshack" target="_blank"> Kuldeep Sahu</a></h3>
+<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector<a href="https://www.youtube.com/@kuldeepsahu7288" target="_blank"> Kuldeep Sahu</a></h3>
 
 <div align="center">
   <img src="https://github.com/kuldeepsahu1105/kuldeepsahu1105/blob/main/Banner.png" alt="Kuldeep Sahu">
@@ -55,7 +55,6 @@ Here are some ideas to get you started:
 </p>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeepsahu1105&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeepsahu1105" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuldeepsahu1105" alt="kuldeepsahu1105" /></a> </p>
 
