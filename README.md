@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hey Everyone 👋, I'm Kuldeep Sahu</h1>
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector<a href="https://www.youtube.com/@kuldeepsahu7288" target="_blank"> Kuldeep Sahu</a></h3>
+<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector.</h3>
 
 <div align="center">
-  <img src="https://github.com/kuldeepsahu1105/kuldeepsahu1105/blob/main/Banner.png" alt="Kuldeep Sahu">
+  <img src="https://www.flaticon.com/free-icon/business-man_3710844?term=male&page=1&position=79&origin=tag&related_id=3710844" alt="Kuldeep Sahu">
+  <a href="https://www.youtube.com/@kuldeepsahu7288" target="_blank"> Kuldeep Sahu</a>
 </div>
 
 <p align="center">
