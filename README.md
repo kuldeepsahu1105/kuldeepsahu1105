@@ -20,9 +20,16 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector.</h3>
 
 <div align="center">
-  <img src="https://www.flaticon.com/free-icon/business-man_3710844?term=male&page=1&position=79&origin=tag&related_id=3710844" alt="Kuldeep Sahu">
-  <a href="https://www.youtube.com/@kuldeepsahu7288" target="_blank"> Kuldeep Sahu</a>
+  <!-- Working avatar image -->
+  <img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" alt="Kuldeep Sahu" width="100" height="100"><br><br>
+  
+  <!-- YouTube icon with text link -->
+  <a href="https://www.youtube.com/@kuldeepsahu7288" target="_blank" style="text-decoration: none; font-size: 16px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="30" style="vertical-align: middle;">
+    <span style="vertical-align: middle; margin-left: 5px;">Kuldeep Sahu</span>
+  </a>
 </div>
+
 
 <p align="center">
   <a href="https://github.com/kuldeepsahu1105">
