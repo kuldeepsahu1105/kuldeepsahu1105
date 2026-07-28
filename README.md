@@ -6,7 +6,7 @@
 
 ### DevOps Engineer · Cloud & Automation Enthusiast · India 🇮🇳
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+reliable+pipelines;Automating+infrastructure;Sharing+DevOps+knowledge+on+YouTube" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+reliable+pipelines;Automating+infrastructure;Sharing+DevOps+knowledge+on+YouTube" alt="Typing intro" />
 
 <br/>
 
@@ -154,12 +154,13 @@ currently: Building & automating scalable infrastructure
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kuldeepsahu1105&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeepsahu1105&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<!-- Self-hosted SVGs — refreshed daily via GitHub Actions (no rate limits) -->
+<img src="./profile/stats.svg" alt="GitHub Stats" height="165"/>
+<img src="./profile/top-langs.svg" alt="Top Languages" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeepsahu1105&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="./profile/streak.svg" alt="GitHub Streak"/>
 
 <br/>
 
@@ -167,16 +168,8 @@ currently: Building & automating scalable infrastructure
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kuldeepsahu1105&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies"/>
-
-<br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuldeepsahu1105&theme=tokyonight" alt="Profile Summary"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kuldeepsahu1105&theme=tokyonight" alt="Most Commit Language"/>
-
-<br/>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=kuldeepsahu1105&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 
 </div>
 
