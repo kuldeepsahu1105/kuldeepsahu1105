@@ -6,11 +6,13 @@
 
 ### DevOps Engineer · Cloud & Automation Enthusiast · India 🇮🇳
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+reliable+pipelines;Automating+infrastructure;Sharing+DevOps+knowledge+on+YouTube" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+reliable+pipelines;Automating+infrastructure;Sharing+DevOps+knowledge" alt="Typing intro" />
 
 <br/>
 
 <img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" alt="Kuldeep Sahu" width="110" height="110" />
+<br/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding" width="400"/>
 
 <br/><br/>
 
@@ -183,6 +185,5 @@ currently: Building & automating scalable infrastructure
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding" width="400"/>
 
 </div>
