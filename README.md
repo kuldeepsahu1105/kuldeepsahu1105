@@ -16,12 +16,39 @@
 
 <br/><br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/kuldeepsahu1105?label=Follow&style=for-the-badge&logo=github&color=181717)](https://github.com/kuldeepsahu1105)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=for-the-badge&logo=youtube&color=FF0000)](https://www.youtube.com/@kuldeepsahu7288)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kuldeep%20Sahu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeep-sahu-0511/)
 [![Email](https://img.shields.io/badge/Email-sahukuldeep4321@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahukuldeep4321@gmail.com)
 
 </div>
+
+---
+
+## 📈 GitHub Metrics
+
+<p align="center">
+  <a href="https://github.com/kuldeepsahu1105?tab=followers">
+    <img src="https://img.shields.io/github/followers/kuldeepsahu1105?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/kuldeepsahu1105/kuldeepsahu1105/network/members">
+    <img src="https://img.shields.io/github/forks/kuldeepsahu1105/kuldeepsahu1105?style=for-the-badge&logo=github&label=Forks&color=181717" alt="GitHub Forks"/>
+  </a>
+  <a href="https://gist.github.com/kuldeepsahu1105">
+    <img src="https://img.shields.io/badge/Gist%20stars-0-181717?style=for-the-badge&logo=github" alt="GitHub Gist Stars"/>
+  </a>
+  <a href="https://github.com/cloudera">
+    <img src="https://img.shields.io/github/stars/cloudera?style=for-the-badge&logo=github&label=Org%20stars&color=181717" alt="GitHub Org Stars"/>
+  </a>
+  <a href="https://github.com/kuldeepsahu1105/kuldeepsahu1105/stargazers">
+    <img src="https://img.shields.io/github/stars/kuldeepsahu1105/kuldeepsahu1105?style=for-the-badge&logo=github&label=Repo%20stars&color=181717" alt="GitHub Repo Stars"/>
+  </a>
+  <a href="https://github.com/kuldeepsahu1105?tab=stars">
+    <img src="https://img.shields.io/github/stars/kuldeepsahu1105?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=User%20stars&color=181717" alt="GitHub User Stars"/>
+  </a>
+  <a href="https://github.com/kuldeepsahu1105/kuldeepsahu1105/watchers">
+    <img src="https://img.shields.io/github/watchers/kuldeepsahu1105/kuldeepsahu1105?style=for-the-badge&logo=github&label=Watchers&color=181717" alt="GitHub Watchers"/>
+  </a>
+</p>
 
 ---
 
