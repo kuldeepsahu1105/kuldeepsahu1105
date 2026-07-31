@@ -13,14 +13,31 @@
 <img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" alt="Kuldeep Sahu" width="110" height="110" />
 <br/>
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding" width="400"/>
+</div>
 
-<br/><br/>
+---
+## 🌐 Connect with Me
 
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=for-the-badge&logo=youtube&color=FF0000)](https://www.youtube.com/@kuldeepsahu7288)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kuldeep%20Sahu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeep-sahu-0511/)
 [![Email](https://img.shields.io/badge/Email-sahukuldeep4321@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahukuldeep4321@gmail.com)
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kuldeep-sahu-0511/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/@kuldeepsahu7288" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://twitter.com/kuldeepsahu11" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/_kuldeep_sahu.1105" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://fb.com/kuldeep.sahu.9256" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
 
 ---
 
@@ -70,39 +87,6 @@ currently: Building & automating scalable infrastructure
 - 📄 Experience → **[LinkedIn](https://www.linkedin.com/in/kuldeep-sahu-0511/)**
 
 > *"Helping people crack DevOps with real-world knowledge. Let's build and automate the future, one pipeline at a time!"*
-
----
-
-## 🤝 Open to Collaborations
-
-| | |
-|---|---|
-| 🎤 | Guest Sessions & Webinars |
-| 🤝 | Project & YouTube Collaborations |
-| 💼 | DevOps Consulting & Mentorship |
-| 📧 | [sahukuldeep4321@gmail.com](mailto:sahukuldeep4321@gmail.com) |
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kuldeep-sahu-0511/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.youtube.com/@kuldeepsahu7288" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://twitter.com/kuldeepsahu11" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/_kuldeep_sahu.1105" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://fb.com/kuldeep.sahu.9256" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-</p>
 
 ---
 
